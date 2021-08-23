@@ -84,9 +84,5 @@ let store = {
 //     }
 // }
 //равносильно
-
-
-
-
 export default store;
 window.store = store;
